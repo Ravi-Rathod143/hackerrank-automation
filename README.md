@@ -7,7 +7,7 @@ Applied Javascript Promises to resolve Async events.
 > npm install
 > node main.js
 
-## To change the details such as browser location, username and password go to "deatail.js".
+## To change the details such as browser location, username and password go to "secret.js".
 
 ## Screenshot:
 
