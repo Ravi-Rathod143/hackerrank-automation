@@ -11,7 +11,7 @@ Applied Javascript Promises to resolve Async events.
 
 ## Screenshot:
 
-![Screenshot1](ss1.png)
+![HackerRank - Chromium 10_29_2022 10_55_04 PM](https://user-images.githubusercontent.com/92660631/198845090-5a5c123c-9743-42db-b4aa-d25c359fa3cd.png)
 
 
 
