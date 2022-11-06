@@ -5,7 +5,7 @@ Applied Javascript Promises to resolve Async events.
 
 # Run
 > npm install
-> node main.js
+> node hackerrank.js
 
 ## To change the details such as browser location, username and password go to "secret.js".
 
